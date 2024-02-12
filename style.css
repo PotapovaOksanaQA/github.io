@@ -1,0 +1,61 @@
+
+body {
+  font-family: Roboto, sans-serif;
+}
+
+.merch {
+  color: rgb(255, 0, 98);
+}
+
+.container {
+  padding: 0 40px;
+  margin-left: 100px;
+}
+
+h1 {
+  font-size: 40px;
+  color: rgb(255, 0, 64);
+}
+
+h1 {
+  font-size: 40px;
+  color: rgb(255, 0, 64);
+}
+
+h2 {
+  font-size: 40px;
+  color: rgb(153, 74, 173);
+}
+
+
+
+div{
+  font-style: normal;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font: size 50px;
+  text-align: center;
+ background-color: bisque;
+  color: blue;
+}
+
+  /* Свойства ссылок */
+a {
+  display: block;
+  text-decoration:none;
+  margin-bottom: 35px;
+  position: relative;
+  font: size 50px;
+  background-color: bisque;
+  color: blue;
+  font-style: normal;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+  /* Что делать при наведении на ссылку */
+a:hover {
+  color:darkred;
+  text-decoration: dotted;
+}
+
+div
+
